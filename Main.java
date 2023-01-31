@@ -5,5 +5,6 @@ public class Main {
         Scanner in = new Scanner(System.in);
         String x = in.nextLine();
         System.out.println("Hello "+x);
+        System.out.println("Iam Ruba And I want really to be disappear");
     }
 }
